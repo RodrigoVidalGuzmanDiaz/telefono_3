@@ -2,17 +2,19 @@
     margin: 0;
     padding: 0;
 }
+html{
+    font-size: 10px; 
+}
 .margen{
     margin-left: 50px;
     margin-right: 50px;
     
     margin-top: 55px;
-    
-    font-size: 10px;
+
 }
 .fondo{
-    width: 87em;
-    height: 145em;
+    width: 87rem;
+    height: 145rem;
     background-color: #5DCEA3;
     border-radius: 55px;
     display: flex;
@@ -20,18 +22,18 @@
    
 }
 .circulo{
-    width: 13em;
-    height: 13em;
+    width: 13rem;
+    height: 13rem;
     background-color: white;
     margin: 95px auto 0px 95px;
     border-radius: 50%;
 }
 .barra{
-    width: 73em;
-    height:14.5em;
+    width: 73rem;
+    height:14.5rem;
     border-radius: 45px; 
     background-color: white;
-    margin-top: 98.5em;
+    margin-top: 98.5rem;
     margin-left: 75px;
     
 }
@@ -48,8 +50,8 @@
 .div_circulo{
     font-size: 10px;
     
-    width: 13em;
-    height: 13em;
+    width: 13rem;
+    height: 13rem;
     margin-top: 39px;
     border-radius: 50%;
     background: #001935;
